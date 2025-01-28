@@ -1,0 +1,194 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    letter-spacing: -0.25px;
+}
+
+body {
+    background: black;
+}
+
+.web-logo {
+    width: 165px;
+}
+
+.div-1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100px;
+    /* padding: 17px 36px 0px 0px; */
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            letter-spacing: -0.25px;
+        }
+
+        body {
+            background: black;
+        }
+
+        .web-logo {
+            width: 165px;
+        }
+
+        .div-1 {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            height: 100px;
+        }
+
+        ul {
+            display: flex;
+            list-style-type: none;
+            column-gap: 33px;
+            font-weight: 450;
+            font-size: 16px;
+            padding: 37px 36px 0px 0px;
+            font-family: "Roboto", serif;
+            color: #ffffff;
+        }
+
+        a {
+            text-decoration: none;
+            color: #ffffff;
+        }
+
+        .sec-1 {
+            background: url(img6.webp);
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+            height: 100vh;
+            margin-top: 50px;
+            margin-left: 40px;
+        }
+
+        .main-heading {
+            display: flex;
+            justify-content: center;
+        }
+
+        .main-heading h2 {
+            text-align: center;
+            margin-bottom: 8px;
+            font-family: 'butler';
+            font-size: 48px;
+            line-height: 60px;
+            color: #ffffff;
+        }
+
+        .logo-text-hold {
+            font-family: 'futurak';
+            font-weight: 400;
+            font-size: 52px;
+            color: #FFFFFF;
+        }
+
+        h2 {
+            font-family: 'futurak';
+            font-weight: 400;
+            font-size: 52px;
+            color: #FFFFFF;
+        }
+
+        .sec-1 .main-heading h2 {
+            margin-bottom: 30px;
+        }
+
+        .sec-1 {
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .row {
+            text-align: center;
+            justify-content: center;
+        }
+
+        .row {
+            display: flex;
+            flex-wrap: wrap;
+            margin-top: calc(-1 * var(--bs-gutter-y));
+            margin-right: calc(-.5 * var(--bs-gutter-x));
+            margin-left: calc(-.5 * var(--bs-gutter-x));
+        }
+
+        .card {
+            border: none;
+            width: 356px;
+            height: 250px;
+            border-radius: 5px;
+            display: flex;
+            align-items: center;
+        }
+
+        .All-img {
+            display: flex;
+            column-gap: 20px;
+            align-items: center;
+        }
+
+        small {
+            color: #ED1C24;
+            text-transform: uppercase;
+            letter-spacing: 0.48em;
+            font-size: 12px;
+            font-weight: 500;
+            margin-top: 24px;
+            margin-bottom: 8px;
+        }
+
+        h3 {
+            font-weight: 400;
+            font-size: 24px;
+            line-height: 29px;
+            text-align: center;
+            color: #FFFFFF;
+        }
+
+        .para {
+            font-family: sans-serif;
+            font-weight: 400;
+            font-size: 14px;
+            color: rgba(255, 255, 255, 0.7);
+            margin-bottom: 12px;
+        }
+
+        .btn {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 174px;
+            height: 50px;
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            border-radius: 50px;
+            font-family: 'Poppins';
+            font-weight: 500;
+            font-size: 14px;
+            color: #FFFFFF;
+        }
+
+        #arrow-one {
+            background-color: #fff;
+            color: #dc3545;
+            width: 27px;
+            height: 27px;
+            padding: 5px 8px;
+            border-radius: 30px;
+            margin-left: 10px;
+            text-align: center;
+        }
